@@ -1,0 +1,25 @@
+body
+    {
+      padding: 0px;
+      margin: 0px;
+    }
+
+    label{
+      color: white;
+      height: 37px;
+      width: 60px;
+      background-color: #0099cc;
+      position: absolute;
+      top:543px;
+      bottom:0px;
+      left:1003px;
+      right:0;
+      font-size: 10px;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      font-family: 'Ubuntu', sans-serif;
+      border-radius: 3px;
+      border:4px solid #3399ff;
+
+    }
